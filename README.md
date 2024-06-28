@@ -3,11 +3,9 @@
 
 <div align=center>I am a undergraduate Computer Science student from Universidade Federal Rural de Pernambuco. I'm a Python developer, currently learning Machine Learning, Deep Learning and Back-End Engineering. Apart from that, I'm also passionate about Chess!</div>
 <br />
-<hr />
 
 <div align="center">
   My Technology Stack
-  <br />
   <br />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
